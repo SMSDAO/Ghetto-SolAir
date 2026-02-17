@@ -16,7 +16,7 @@
     "watch": "tsc -w -p ./src"
   },
   "dependencies": {
-    "arweave": "^1.10.23",
+    "arweave": "^1.12.3",
     "commander": "^9.2.0",
     "loglevel": "^1.8.0",
     "tslib": "^2.4.0"
