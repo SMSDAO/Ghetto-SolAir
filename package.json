@@ -28,7 +28,7 @@
     "@metaplex-foundation/mpl-token-metadata": "^1.2.5",
     "@metaplex/js": "^4.12.0",
     "@moreavy/simple-csv-tools": "^1.0.1",
-    "@solana/web3.js": "^1.36.0",
+    "@solana/web3.js": "^1.98.4",
     "@wonka-labs/wonka-js": "^1.0.13",
     "graphql": "^16.3.0",
     "lodash": "^4.17.21",
